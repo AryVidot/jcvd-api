@@ -1,0 +1,409 @@
+{
+    "quotes": [
+        {
+            "id": 0,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "God gave me a great body and it's my duty to take care of my physical temple.",
+            "tags": [
+                "god",
+                "body",
+                "temple",
+                "care"
+            ],
+            "paragraph": 1,
+            "length": 77
+        },
+        {
+            "id": 2,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I now truly believe it is impossible for me to make a bad movie.",
+            "tags": [
+                "believe",
+                "impossible",
+                "make",
+                "bad",
+                "movie"
+            ],
+            "paragraph": 1,
+            "length": 64
+        },
+        {
+            "id": 3,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "You can create the perfect triceps by just pushing yourself off your wall.",
+            "tags": [
+                "create",
+                "perfect",
+                "biceps",
+                "push",
+                "yourself",
+                "wall"
+            ],
+            "paragraph": 1,
+            "length": 74
+        },
+        {
+            "id": 4,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "My body looks like 30 but my face looks like 50. But I cannot walk bare-chested in the streets. I like to do these movies to challenge myself physically.",
+            "tags": [
+                "create",
+                "perfect",
+                "biceps",
+                "push",
+                "yourself",
+                "wall"
+            ],
+            "paragraph": 1,
+            "length": 154
+        },
+        {
+            "id": 5,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "A cookie has no soul, it's just a cookie. but before it was milk and egg. And in eggs there's the potential for life.",
+            "tags": [
+                "cookie",
+                "soul",
+                "milk",
+                "egg",
+                "potential",
+                "life"
+            ],
+            "paragraph": 1,
+            "length": 117
+        },
+        {
+            "id": 6,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "Air is beautiful, yet you cannot see it. It's soft, but you cannot touch it. Air is a little like my brain.",
+            "tags": [
+                "air",
+                "beautiful",
+                "touch",
+                "brain"
+            ],
+            "paragraph": 1,
+            "length": 107
+        },
+        {
+            "id": 7,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I love animals. I have nine dogs anda kitty. My biggest orgasm - not in a sexual way - is to walk with my dogs on the beach.",
+            "tags": [
+                "love",
+                "animal",
+                "dogs",
+                "kitty",
+                "orgasm",
+                "sexual",
+                "walk",
+                "beach"
+            ],
+            "paragraph": 1,
+            "length": 124
+        },
+        {
+            "id": 8,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "When I walk across my loving room from my chimney to the window, it takes me 10 seconds, but for a bird it takes one second and for the oxigen zero seconds!",
+            "tags": [
+                "walk",
+                "room",
+                "chimney",
+                "window",
+                "second",
+                "bird",
+                "oxygen"
+            ],
+            "paragraph": 1,
+            "length": 156
+        },
+        {
+            "id": 9,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "Showing myself nude from behind doesn't pose any problems, but from the front that's another story. I don't want to lose all my fans.",
+            "tags": [
+                "showing",
+                "nude",
+                "problem",
+                "behind",
+                "front",
+                "lose",
+                "fans"
+            ],
+            "paragraph": 1,
+            "length": 133
+        },
+        {
+            "id": 10,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "If you phone a psychic and she doesn't answer the phone before it rings, hang up.",
+            "tags": [
+                "phone",
+                "psychic",
+                "answer",
+                "rings",
+                "hang up"
+            ],
+            "paragraph": 1,
+            "length": 81
+        },
+        {
+            "id": 11,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I'm fast, why? Because I eat vegetables.",
+            "tags": [
+                "fast",
+                "eat",
+                "vegetables"
+            ],
+            "paragraph": 1,
+            "length": 40
+        },
+        {
+            "id": 12,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "In an action film you act in the action. If it's a dramatic film you act in the drama.",
+            "tags": [
+                "action",
+                "film",
+                "dramatic",
+                "act",
+                "drama"
+            ],
+            "paragraph": 1,
+            "length": 86
+        },
+        {
+            "id": 13,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "If you work with jackhammer during an eathquake, stop, otherwise you are working for nothing.",
+            "tags": [
+                "work",
+                "jackhammer",
+                "hearthquake",
+                "nothing",
+                "stop"
+            ],
+            "paragraph": 1,
+            "length": 93
+        },
+        {
+            "id": 14,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "If you work with jackhammer during an eathquake, stop, otherwise you are working for nothing.",
+            "tags": [
+                "work",
+                "jackhammer",
+                "hearthquake",
+                "nothing",
+                "stop"
+            ],
+            "paragraph": 1,
+            "length": 93
+        },
+        {
+            "id": 15,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I am fascinated by air. If you remove the air from the sky, all the birds would fall from the sky. And all the planes too.",
+            "tags": [
+                "fascinate",
+                "air",
+                "remove",
+                "sky",
+                "bird",
+                "fall",
+                "planes"
+            ],
+            "paragraph": 1,
+            "length": 122
+        },
+        {
+            "id": 16,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I am fascinated by air. If you remove the air from the sky, all the birds would fall from the sky. And all the planes too.",
+            "tags": [
+                "fascinate",
+                "air",
+                "remove",
+                "sky",
+                "bird",
+                "fall",
+                "planes"
+            ],
+            "paragraph": 1,
+            "length": 122
+        },
+        {
+            "id": 17,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I now truly believe it is impossible for me to make a bad movie.",
+            "tags": [
+                "believe",
+                "impossible",
+                "me",
+                "make",
+                "movie"
+            ],
+            "paragraph": 1,
+            "length": 64
+        },
+        {
+            "id": 18,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "Because no matter what you say in life, the truth will always be the truth. You know when someone is telling the truth, you look in the eyes. I have a tendency to believe people.",
+            "tags": [
+                "life",
+                "truth",
+                "eyes",
+                "believe",
+                "people"
+            ],
+            "paragraph": 1,
+            "length": 178
+        },
+        {
+            "id": 19,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "Because no matter what you say in life, the truth will always be the truth. You know when someone is telling the truth, you look in the eyes. I have a tendency to believe people.",
+            "tags": [
+                "life",
+                "truth",
+                "eyes",
+                "believe",
+                "people"
+            ],
+            "paragraph": 1,
+            "length": 178
+        },
+        {
+            "id": 20,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "But on average, I go to the gym about four or five times a week. Today, I'm so experienced in training - I'm actually listening to my body now. My body needs freedom. When I train I create serenity and I produce oxygen in my blood. It helps me to think better and relax. By training, you accentuate the problem.",
+            "tags": [
+                "average",
+                "gym",
+                "week",
+                "listen",
+                "body",
+                "oxygen",
+                "freedom",
+                "serenity",
+                "blood",
+                "think",
+                "relax",
+                "accentuate",
+                "problem"
+            ],
+            "paragraph": 1,
+            "length": 311
+        },
+        {
+            "id": 21,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "But on average, I go to the gym about four or five times a week. Today, I'm so experienced in training - I'm actually listening to my body now. My body needs freedom. When I train I create serenity and I produce oxygen in my blood. It helps me to think better and relax. By training, you accentuate the problem.",
+            "tags": [
+                "average",
+                "gym",
+                "week",
+                "listen",
+                "body",
+                "oxygen",
+                "freedom",
+                "serenity",
+                "blood",
+                "think",
+                "relax",
+                "accentuate",
+                "problem"
+            ],
+            "paragraph": 1,
+            "length": 311
+        },
+        {
+            "id": 22,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I'm not complaining about doing 20-hour days. It's a joy to be able to work on yet another film.",
+            "tags": [
+                "complain",
+                "joy",
+                "work",
+                "film"
+            ],
+            "paragraph": 1,
+            "length": 96
+        },
+        {
+            "id": 23,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "You need at least six or seven years to understand the philosophy and concentration of karate to know to clean your spirit of everything and dedicate your mind and body to the sport.",
+            "tags": [
+                "philosophy",
+                "understand",
+                "concentration",
+                "karate",
+                "clean",
+                "spirit",
+                "dedicate",
+                "mind",
+                "body"
+            ],
+            "paragraph": 1,
+            "length": 182
+        },
+        {
+            "id": 24,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "You need at least six or seven years to understand the philosophy and concentration of karate to know to clean your spirit of everything and dedicate your mind and body to the sport.",
+            "tags": [
+                "philosophy",
+                "understand",
+                "concentration",
+                "karate",
+                "clean",
+                "spirit",
+                "dedicate",
+                "mind",
+                "body"
+            ],
+            "paragraph": 1,
+            "length": 182
+        },
+        {
+            "id": 25,
+            "language": "en",
+            "author": "Jean-Claude Van Damme",
+            "quote": "I am the Fred Astaire of karate.",
+            "tags": [
+                "Fred Astair",
+                "karate"
+            ],
+            "paragraph": 1,
+            "length": 32
+        }
+    ]
+}
